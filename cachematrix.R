@@ -1,7 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## These functions have been created to practice scoping in R - the first one is to create a cache to store the inverse of a matrix
+## The second calculates the inverse and gives an output, either from the cache or from a new calculation
 
-## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL ##creatubg null matrix
